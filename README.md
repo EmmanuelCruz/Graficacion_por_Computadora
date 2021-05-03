@@ -21,7 +21,7 @@ Se muestran ejercicios de ejemplo para las prácticas.
 * Práctica 03: Cargar modelos _obj_ para rotarlos.
 * Práctica 04: Cargar modelos _obj_ con manejo de iluminación y cálculo de luz en normales.
 * Práctica 05: Aplicación de traslaciones para la implementación de Ping Pong.
-* Práctica 06: Aplicación de exturas. Generación de ambiente 3D.
+* Práctica 06: Aplicación de texturas. Generación de ambiente 3D.
 
 ### Proyecto Final
 Implementación de un jardín animado donde se aplica definición de vértices para la creación de caras, trasnformaciones geométricas (rotación, traslación, escala), manejo de cámara, manejo de iluminación y manejo de texturas.
