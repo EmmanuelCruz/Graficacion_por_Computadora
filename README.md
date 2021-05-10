@@ -14,6 +14,7 @@ Se muestran ejercicios de ejemplo para las prácticas.
 * Cálculo para rebote de objetos.
 * Reloj sin rotaciones.
 * Definición de vértices para la creación de caras.
+* Ejemplo de Shaders.
 
 ### Prácticas
 * Práctica 01: Definición de vértices para crear caras y animación.
